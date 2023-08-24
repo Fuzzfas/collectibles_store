@@ -1,0 +1,21 @@
+S, 001, S, 1989, Near Mint, Ken Griffey Jr., Upper Deck
+B, 456, M, 1913, 70, Liberty Nickel
+C, 999
+D
+X, 999, Z, 1986, Raging, Metallica, Master of Puppets
+S, 000, Q, 2112, Gnarly, Windows, Microsoft
+H
+S, 001, B, 2112, Gnarly, Windows, Microsoft
+B, 456, Y, 2001, 70, Fake
+C, 001
+B, 1456, M, 1913, 70, Liberty Nickel
+B, 456, M, 1913, 70, Liberty Nickel
+B, 456, M, 1913, 70, Liberty Nickel
+B, 456, M, 1913, 70, Liberty Nickel
+B, 456, M, 1913, 70, Liberty Nickel
+S, 456, M, 1913, 70, Liberty Nickel
+C, 456
+B, 007, C, 2010, Excellent, X-Men, Marvel
+C, 007
+D
+H
